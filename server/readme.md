@@ -1,6 +1,6 @@
 **npm init -y** initialisation project node.js
 
-npm i body-parser dotenv cors express ejs mongoose nodemon 
+npm install body-parser dotenv cors express ejs mongoose nodemon 
 
 **mkdir controller** --> cretae folder
 mkdir view 
@@ -29,9 +29,9 @@ echo "" > config.env
 
 8. **Cookie-parser** : Un middleware pour analyser les cookies des requêtes HTTP.
 
-9. **Express-session** : Un middleware pour gérer les sessions utilisateur.
+9. **Express-session** : Un middleware pour gérer les sessions utilisateur. **up**
 
-10. **Passport** : Une bibliothèque pour l'authentification via différentes stratégies.
+10. **Passport** : Une bibliothèque pour l'authentification via différentes stratégies. **up**
 
 11. **Express-validator** : Une bibliothèque pour la validation des données côté serveur.
 
@@ -43,23 +43,23 @@ echo "" > config.env
 
 15. **Jsonwebtoken** : Une bibliothèque pour la gestion des tokens JWT.
 
-16. **Connect-mongo** : Un connecteur pour Express-session pour le stockage des sessions dans MongoDB.
+16. **Connect-mongo** : Un connecteur pour Express-session pour le stockage des sessions dans MongoDB. **up**
 
 17. **Socket.io** : Une bibliothèque pour la communication en temps réel.
 
-18. **Nodemailer** : Une bibliothèque pour l'envoi d'e-mails.
+18. **Nodemailer** : Une bibliothèque pour l'envoi d'e-mails. **up**
 
 19. **Node-cron** : Une bibliothèque pour la planification de tâches.
 
 20. **Express-rate-limit** : Un middleware pour limiter les taux de requêtes.
 
-21. **Sharp** : Une bibliothèque pour l'optimisation et la manipulation d'images.
+21. **Sharp** : Une bibliothèque pour l'optimisation et la manipulation d'images. **up**
 
-22. **Tesseract.js** : Une bibliothèque OCR pour extraire du texte à partir d'images.
+22. **Tesseract.js** : Une bibliothèque OCR pour extraire du texte à partir d'images. **up**
 
-23. **Node-opencv** : Une interface Node.js pour la bibliothèque OpenCV, pour la vision par ordinateur.
+23. **Node-opencv** : Une interface Node.js pour la bibliothèque OpenCV, pour la vision par ordinateur. **up**
 
-24. **Image-size** : Une bibliothèque pour récupérer les dimensions d'une image.
+24. **Image-size** : Une bibliothèque pour récupérer les dimensions d'une image. 
 
 25. **Image-to-base64** : Une bibliothèque pour convertir une image en une chaîne Base64.
 
